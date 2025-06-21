@@ -1,3 +1,3 @@
 import utils
-utils.greeting("Monica")
-utils.goodbye()
+
+print(utils.welcome("Monica"))
