@@ -1,1 +1,4 @@
-# Overview\nThis is a simple git repository
+
+# My Git Project
+This is a simple git repository.
+
